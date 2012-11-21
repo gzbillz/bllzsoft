@@ -1,0 +1,17 @@
+{"xhp": {
+    "version": "1.1",
+    "services": [
+        {"id": "default",
+         // "url":"http://127.0.0.1:8080/gwt-console-server",
+         "url":"http://127.0.0.1:8080/gbcns",
+         "passthrough":true
+        },
+        {"id": "birt",
+         // "url":"http://127.0.0.1:8080/gwt-console-server",
+         "url":"http://127.0.0.1:8080/gbcns",
+         "passthrough":true,
+         "contentType":"text/html"         
+        }
+    ]
+  }
+}
